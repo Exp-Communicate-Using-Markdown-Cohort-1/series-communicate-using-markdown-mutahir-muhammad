@@ -23,3 +23,6 @@ cout << ptr is: " << ptr << endl;   // also 10
 return 0;
 }
 ```
+- [x] Turn on GitHub
+- [x] Outline my profile readme
+- [ ] Introduce myself to the world
